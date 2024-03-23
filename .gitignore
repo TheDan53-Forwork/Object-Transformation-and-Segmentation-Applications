@@ -163,6 +163,7 @@ cython_debug/
 
 # Pictures files
 Object Segmentation Data/
+Orange/
 *.png
 *.jpg
 *.jpeg
